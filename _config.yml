@@ -1,0 +1,14 @@
+layout_spectrum: 0.9227620498277247
+typography_spectrum: 0.6316080542746931
+color:
+  brandStrength: 0.12908187322318554
+  lightness: 0.37973097967915237
+  saturation: 0.5714671453461051
+  rhythmicContrast: 0.4725374730769545
+  brandColors:
+    - '#202237'
+    - '#3371A2'
+    - '#FFC033'
+    - '#FFF3A1'
+    - '#87AE9F'
+name: Foretellinode
